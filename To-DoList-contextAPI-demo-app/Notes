@@ -1,0 +1,11 @@
+1. Setup of Project >>> create project>> install tailwincss>> confiugure the project according to that 
+2. Create Contexts folder to keep the all contexts in that 
+    2.1 >> create the todoContext.js
+    2.2 >> Add the globle variable , methods in createContext object
+    2.3 >> create index.js file to import all context data and export all from one location
+    2.4 >> you can access the globle variable using useTodo
+
+3. wrap the code using Provider and destruct the value and define methods and variables 
+
+
+
